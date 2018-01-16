@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BO  Suite" >
+
+
+<test name="Login Test">
+    <classes>
+        <class name="home.Contracts.SEWPTest" ></class>  
+    </classes>
+</test>
+
+
+</suite>
+
